@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+}
+
+.text{
+    width: 250px;
+}
+
+.btn{
+    border: 1px solid;
+    padding: 15px;
+    background-color: #0271CD;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Helvetica', sans-serif;
+    border-radius: 20px;
+}
